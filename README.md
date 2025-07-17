@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">Olá, sou Davi Jedrzejczyk! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<p><b>👀Buscando novas oportunidades para expandir minha experiência e contribuir com projetos desafiadores.👀</b></p>
+<p><b>Desenvolvedor Júnior Delphi na SCI Sistemas Contábeis.</b></p>
 <p>Estou sempre atualizando meus projetos e buscando evoluir minhas habilidades, especialmente na área de desenvolvimento de software com boas práticas e arquitetura limpa!</p>
 
 <h2 align="left" id="macropower-tech">Tecnologias Favoritas💻</h2>
