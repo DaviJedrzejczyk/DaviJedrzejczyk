@@ -15,15 +15,6 @@
   <img src="svg/visualstudio.svg" alt="visual studio" style="vertical-align:top; margin:4px">
 </p>
 
-<h2 align="left">Coding Activity👾</h2>
-
-> Estatátisticas sobre o meu perfil.
-
-<p align="center" >
-  <img  src="https://github-readme-stats.vercel.app/api?username=DaviJedrzejczyk&&show_icons=true&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviJedrzejczyk&layout=compact&theme=monokai">
-</p>
-
 <h2>Experiências💼</h2>
 <details>
   <summary><h3><img src="svg/benner.png" alt="Benner Sistmeas" height="56"></h3></summary>
