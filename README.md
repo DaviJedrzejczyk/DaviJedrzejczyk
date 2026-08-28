@@ -34,7 +34,7 @@
 <h2 align="center">Contatos e Sites</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-jedrzejczyk-03b22a245/"><img height="40" src="svg/linkedinQuadrado.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="40" src="svg/whatsapp.png"></a>&nbsp;&nbsp;
+  <a href="https://wa.me/5547992783657"><img height="40" src="svg/whatsapp.png"></a>&nbsp;&nbsp;
   <a href="https://davijedrzejczyk.github.io/PortifolioAngular/"><img height="40" src="svg/favicon.ico"></a>&nbsp;&nbsp;
 </p>
 
