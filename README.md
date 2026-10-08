@@ -34,8 +34,7 @@
     <ul>
       <li><b>Integração com APIs:</b> Integração com a API do RH Net para processamento de dados de recursos humanos</li>
       <li><b>eSocial:</b> Desenvolvimento e manutenção de eventos eSocial, adicionando novos campos e mantendo conformidade com novas normativas do governo</li>
-      <li><b>Apuração do Ponto:</b> Sistemas de cálculo e processamento de ponto dos colaboradores</li>
-      <li><b>Declaração de Rendimentos:</b> Manutenção e desenvolvimento de sistemas de declaração de rendimentos</li>
+      <li><b>Apuração do Ponto:</b> Sistemas de cálculo e processamento de ponto dos colaboradores</li?
       <li><b>Relatórios:</b> Desenvolvimento de diversos relatórios contábeis e de folha de pagamento</li>
       <li><b>Suporte ao Cálculo de Folha:</b> Ocasionalmente contribuo com melhorias e correções na lógica de cálculo de folha de pagamento</li>
     </ul>
