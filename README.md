@@ -27,7 +27,7 @@
 </details>
 <details>
   <summary><h3>🏢 SCI Sistemas Contábeis</h3></summary>
-    <p><b>Cargo: Desenvolvedor Delphi</b></p>
+    <p><b>Cargo: Desenvolvedor Delphi Júnior</b></p>
     <p>
       Atuo no desenvolvimento e manutenção de sistemas contábeis e de folha de pagamento em Delphi. Trabalho com dois principais sistemas: <b>Folha</b> desenvolvido em Delphi 12 e <b>Visual Practice</b> em Delphi 7. Minhas responsabilidades incluem:
     </p>
